@@ -1,0 +1,9 @@
+chara:
+  1:
+    Name: Manfred
+  2:
+    Name: SoulEater
+
+InventoryName: "キャラGUI"
+
+debugMode: false

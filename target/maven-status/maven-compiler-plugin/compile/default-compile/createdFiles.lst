@@ -1,0 +1,5 @@
+jp\dip\monsterlifeserver\varitas_coreplugin\VARITAS_CorePlugin.class
+jp\dip\monsterlifeserver\varitas_coreplugin\MainCommand.class
+jp\dip\monsterlifeserver\varitas_coreplugin\API\ConfigAPI.class
+jp\dip\monsterlifeserver\varitas_coreplugin\API\MainAPI.class
+jp\dip\monsterlifeserver\varitas_coreplugin\Listener\onInventoryClick.class

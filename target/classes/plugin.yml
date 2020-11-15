@@ -1,0 +1,10 @@
+name: VERITAS_CorePlugin
+version: 1.0
+main: jp.dip.monsterlifeserver.varitas_coreplugin.VARITAS_CorePlugin
+api-version: 1.13
+
+commands:
+  gexp:
+    description: gexp
+  test:
+    description: test
